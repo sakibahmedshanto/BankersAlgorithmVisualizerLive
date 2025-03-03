@@ -26,21 +26,21 @@ The **Banker's Algorithm Visualizer** is a web application that helps users anal
 
 ## Usage Guide
 ### 1. Upload CSV File
+![Upload CSV](screenshots/upload_csv.png)
 - Click on the **"Upload CSV File"** button.
 - Ensure the file follows the correct format.
 
 ### 2. Select a Safe Sequence
+![Safe Sequence](screenshots/safe_sequence.png)
 - If safe sequences exist, choose one from the dropdown.
 
 ### 3. Step Through Execution
+![Execution Step](screenshots/execution_step.png)
 - Click **Next** to execute processes sequentially.
 - Watch available resources update dynamically.
 - Completed processes turn **green**, and active ones highlight **yellow**.
 
-### 4. Navigate Back (if needed)
-- Click **Back** to revisit previous steps.
-
-### 5. Completion
+### 4. Completion
 - If all processes execute safely, you’ll see a success message.
 
 ---
@@ -54,23 +54,6 @@ The **Banker's Algorithm Visualizer** is a web application that helps users anal
 
 > **Ensure the first row contains available resources.**
 
----
-
-## Screenshots
-### Uploading CSV File
-```markdown
-![Upload CSV](screenshots/upload_csv.png)
-```
-
-### Selecting a Safe Sequence
-```markdown
-![Safe Sequence](screenshots/safe_sequence.png)
-```
-
-### Step-by-Step Execution
-```markdown
-![Execution Step](screenshots/execution_step.png)
-```
 
 ---
 
@@ -88,7 +71,6 @@ The **Banker's Algorithm Visualizer** is a web application that helps users anal
 - Export reports on safe sequences.
 
 ---
-
 
 ## Author
 Developed by **Sakib Ahmed Shanto** 🚀
